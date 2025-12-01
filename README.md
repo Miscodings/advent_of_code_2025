@@ -30,19 +30,20 @@ i’m solving 2025 using:
 - aoc will provide you with your own input data on its website, so be sure to adjust the directory path to include that as well.
 
 ## 📝 Progress Tracker
-Day  Part 1  Part 2
-01  ⭐	⭐
-02  ☐	☐
-03  ☐	☐
-04  ☐	☐
-05  ☐	☐
-06  ☐	☐
-07  ☐	☐
-08  ☐	☐
-09  ☐	☐
-10  ☐	☐
-11  ☐	☐
-12  ☐	☐
+| Day | Part 1 | Part 2 |
+|-----|--------|--------|
+| 1   | ⭐     | ⭐     |
+| 2   | ☐     | ☐     |
+| 3   | ☐     | ☐     |
+| 4   | ☐     | ☐     |
+| 5   | ☐     | ☐     |
+| 6   | ☐     | ☐     |
+| 7   | ☐     | ☐     |
+| 8   | ☐     | ☐     |
+| 9   | ☐     | ☐     |
+| 10  | ☐     | ☐     |
+| 11  | ☐     | ☐     |
+| 12  | ☐     | ☐     |
 
 ## 📬 Feedback / Contact
 - if you have suggestions, improvements, or want to discuss solutions, feel free to open an issue or reach out!
